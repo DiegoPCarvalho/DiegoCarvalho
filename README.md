@@ -4,7 +4,7 @@
           
 ### Bem vindo ao meu Github !!!
 
-##### Olá, sou Diego Carvalho, tenho 27 anos, amo programar, estou na aréa a cerca de 5 e 2 como programador full-stack.
+##### Olá, sou Diego Carvalho, tenho 27 anos, amo programar, sou formado em Análise e Desenvolvimento de Sistemas desde 2015, estou á 3 anos como programador full-stack.
 
   #### :pill: Tecnologias que utilizo.<br><br>
   :heavy_check_mark:  Front-end
@@ -22,12 +22,12 @@
           
   :heavy_check_mark:  Back-end
   <br>
-  ###### NODEJS, JAVASCRIPT, TYPESCRIPT, PHP, JAVA.
+  ###### NODEJS, JAVASCRIPT, TYPESCRIPT, C#, .NET, F#.
   = <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" whideth="27" height="27" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" whideth="27" height="27"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" whideth="27" height="27"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" whideth="27" height="27"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" whideth="27" height="27"/>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+  
   
   :heavy_check_mark:  Banco de Dados
   <br>
