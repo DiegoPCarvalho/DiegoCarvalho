@@ -35,7 +35,7 @@
   
   :heavy_check_mark:  Banco de Dados
   <br>
-  ###### MONGODB, MYSQL, MICROSOFT-SQLSERVER
+  ###### MONGODB, MYSQL, MICROSOFT-SQLSERVER, ORACLE-SQL
   = <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" whideth="27" height="27"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" whideth="30" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" whideth="30" height="30"/>
