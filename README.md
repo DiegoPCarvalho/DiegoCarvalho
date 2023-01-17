@@ -22,20 +22,22 @@
           
   :heavy_check_mark:  Back-end
   <br>
-  ###### NODEJS, JAVASCRIPT, TYPESCRIPT, C#, .NET, F#.
+  ###### NODEJS, JAVASCRIPT, C, TYPESCRIPT, C# .NET, F#,  C++.
   = <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" whideth="27" height="27" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" whideth="27" height="27"/>
+   <img src="https://devicons.railway.app/i/c.svg" whideth="27" height="27"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" whideth="27" height="27"/>
   <img src="https://devicons.railway.app/i/csharp.svg" whideth="27" height="27"/>
+  <img src="https://devicons.railway.app/i/fsharp.svg" whideth="27" height="27"/>
+  <img src="https://devicons.railway.app/i/cplusplus.png" whideth="27" height="27"/>
   
   
   
   :heavy_check_mark:  Banco de Dados
   <br>
-  ###### MONGODB,MYSQL,POSTGRESQL,MICROSOFTSQLSERVER
+  ###### MONGODB,MYSQL,MICROSOFTSQLSERVER
   = <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" whideth="27" height="27"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" whideth="30" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" whideth="30" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" whideth="30" height="30"/>
   
   
